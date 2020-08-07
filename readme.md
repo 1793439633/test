@@ -1,11 +1,4 @@
 # readme
-+ 项目说明文档
-<!-- ---
-```js
-var abc=123;
-function show(){
-    alert('abc');
-} -->
  1. 一般会随着项目放在一起
  2. 作为项目说明文档
 
