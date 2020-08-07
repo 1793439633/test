@@ -31,3 +31,10 @@ function show(){
 
 ## git log
 1. 查看操作日志
+
+## git reflog
+1. 查看操作日志（简单版）
+
+
+## git diff 文件名
+1. 查看文件变更信息
